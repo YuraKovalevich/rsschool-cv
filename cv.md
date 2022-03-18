@@ -11,3 +11,16 @@ I am a 2nd year student at BSU. While still at school, I became interested in pr
     * Java
     * Js
     * Git
+    
+4. Code example:
+    ```javascript
+    function factorial(n) {
+        return (n != 1) ? n * factorial(n - 1) : 1;
+    }
+
+    ```
+5. Courses:
+   * w3schools
+   * RS Schools
+
+6. English -A2
