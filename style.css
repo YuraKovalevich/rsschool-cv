@@ -11,3 +11,7 @@ a{
     line-height: 1.5;
     word-wrap: break-word;
 }
+.photo{
+    width: 200px;
+    border-radius: 28px;
+}
